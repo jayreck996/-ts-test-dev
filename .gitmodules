@@ -1,7 +1,8 @@
-[submodule "front"]
-	path = front
-	url = https://github.com/jayreck996/-ts-test-front.git
-
 [submodule "back"]
 	path = back
 	url = https://github.com/jayreck996/-ts-test-back.git
+	branch = main
+[submodule "front"]
+	path = front
+	url = https://github.com/jayreck996/-ts-test-front.git
+	branch = main
